@@ -1,0 +1,2 @@
+Get-Date | echo
+pause
